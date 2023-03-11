@@ -7,6 +7,8 @@
 /*
 * ## RJH NOTES
 * 
+* ### Resources
+* - Key tester: https://keyboardtester.io/tester/
 * ### Examples:
 * - https://github.com/rastasheep/zmk-config/blob/master/config/corne.keymap
 */
